@@ -285,5 +285,7 @@ ___
 ![图片名](图片UTL地址或图片本地存储路径)
 ~~~
 
-<img src="E:\File\Typora\Test\Image01.png" alt="Image01" style="zoom:80%;" />
+![Image01](Image01.png)
+
+
 
